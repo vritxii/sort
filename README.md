@@ -1,5 +1,5 @@
 # sort
-Some different type quick sort implements
+### Some different type quick sort implements.
 Test data set is random generated, and the size is 1024000.
 
 - SimpleQuickSortNonRecursive: 160.49007ms
